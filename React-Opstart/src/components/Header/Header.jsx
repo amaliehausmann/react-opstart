@@ -5,7 +5,7 @@ export function Header() {
     return (
         <>
             <header className={style.headerStyle}>
-                <h1 className={style.headingStyle}>Jeg er en header</h1>
+                <h1 className={style.headingStyle}>Brainrot Central</h1>
                 <Navbar/>
             </header>
         </>

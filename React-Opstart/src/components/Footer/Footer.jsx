@@ -4,7 +4,7 @@ export function Footer() {
     return (
         <>
             <footer className={style.footerStyle}>
-                <h5 className={style.textStyle}>Jeg er en footer</h5>
+                <h5 className={style.textStyle}>skibidi toilet skibidi toilet skibidi toilet</h5>
             </footer>
         </>
     )
