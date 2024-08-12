@@ -1,0 +1,16 @@
+.navbarStyle{
+    ul{
+        display: flex;
+        flex-direction: row;
+        padding-left: 0;
+        margin-left: 1vw;
+    }
+}
+
+.liStyle{
+    li{
+        padding-right: 1vw;
+        list-style: none;
+        text-align: center;
+    }
+}
