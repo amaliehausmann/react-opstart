@@ -1,18 +1,18 @@
-.navbarStyle{
-    ul{
+.navbarStyle {
+    ul {
         display: flex;
         flex-direction: row;
         padding-left: 0;
     }
 }
 
-.liStyle{
-    li{
+.liStyle {
+    li {
         padding: 1vw;
         list-style: none;
         text-align: center;
 
-        &:hover{
+        &:hover {
             background-color: lightblue;
             color: darkblue;
         }

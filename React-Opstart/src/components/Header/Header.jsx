@@ -6,7 +6,7 @@ export function Header(props) {
         <>
             <header className={style.headerStyle}>
                 <h1 className={style.headingStyle}>{props.headerText}</h1>
-                <Navbar/>
+                <Navbar />
             </header>
         </>
     )

@@ -6,7 +6,7 @@ import { Main } from './components/Main/Main'
 function App() {
   return (
     <>
-      <Header headerText='Props er cool'/>
+      <Header headerText='Props er cool' />
       <Main />
       <Footer />
     </>
