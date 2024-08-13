@@ -5,9 +5,9 @@ export function Navbar(){
         <>
         <nav className={style.navbarStyle}>
             <ul className={style.liStyle}>
-                <li>Rizz</li>
-                <li>Skibidi Ohio</li>
-                <li>Sigma</li>
+                <li>Item One</li>
+                <li>Item Two</li>
+                <li>Item Three</li>
             </ul>
         </nav>
         </>
